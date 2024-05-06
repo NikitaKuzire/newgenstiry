@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+  background-image: linear-gradient(to right,blue,red); 
+
+}
+a {
+    color: #F09595;
+}
+footer {
+     background-image: linear-gradient(to right,blue,red); 
+}
+header img {
+    border: 8px inset #8F1616;
+}
+.melodie {
+    background-color: #39005D;
+}
+.melodie p {
+    color: #DB92F5
+
+
+}
+.po {
+    color: #FFF500;
+}
+.zo {
+    color: #FF0000
+}
+.angelo {
+    background-color: #005D04;
+}
+.UA {
+     border: 8px inset #000A3D; 
+}
+.Brawl {
+    color: #06154A;
+}
+.event {
+    color: #031F56;
+}
+.murti {
+    color: #0A6157;
+}
+footer {
+    color: #13C3AE;
+}
+
+
+
