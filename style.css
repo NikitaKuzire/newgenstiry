@@ -17,6 +17,9 @@ header img {
 }
 .melodie {
     background-color: #39005D;
+
+
+  
 }
 .melodie p {
     color: #DB92F5
@@ -47,6 +50,30 @@ header img {
 footer {
     color: #13C3AE;
 }
+a:hover {
+    color: #906CD7;
+    background-color: #2A0671;
+}
+.aa{
+    position: absolute;
+}
+.aa:hover {
+    opacity: 0;
+}
+.ss:hover{
+     background-image: linear-gradient(to right,#98B72E
 
+,#BDF400); 
+}
+.sa:hover{
+     background-image: linear-gradient(to right,#98B72E
 
-
+,#BDF400); 
+color: #DB37BC	;
+}
+.ab{
+   position: absolute; 
+}
+.ab:hover {
+    opacity: 0;
+}
